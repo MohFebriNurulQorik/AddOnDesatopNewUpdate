@@ -3,3 +3,5 @@ versi Custom 211012
 2.	Print summary Document
 3.	Opsi Print label Thermal/Sticker
 4.	Fitur baru kalibrasi timbangan
+
+oke
