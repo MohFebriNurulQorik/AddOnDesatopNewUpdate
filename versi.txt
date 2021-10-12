@@ -1,1 +1,5 @@
 versi Custom 211012
+1.	Data base adalah versi yang dikeluarkan Sun-Arta tgl `1 
+2.	Print summary Document
+3.	Opsi Print label Thermal/Sticker
+4.	Fitur baru kalibrasi timbangan
