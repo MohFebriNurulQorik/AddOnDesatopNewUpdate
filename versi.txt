@@ -4,8 +4,4 @@ versi Custom 211012
 3.	Opsi Print label Thermal/Sticker
 4.	Fitur baru kalibrasi timbangan
 
-Versi Custom 211023
-1. Label
-2. Peringatan jika berat In dan Out tidak sama
-3. Invoice Report
-4. Perbadingan Invoice acumatica dan Addon
+oke
