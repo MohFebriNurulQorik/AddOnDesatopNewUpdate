@@ -1,0 +1,1255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8D32352B-AB62-4359-99F3-214335EBF67B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ScaleAddon</RootNamespace>
+    <AssemblyName>ScaleAddon</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>favicon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>
+    </StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Accessibility" />
+    <Reference Include="ExcelDataReader, Version=3.6.0.0, Culture=neutral, PublicKeyToken=93517dbe6a4012fa, processorArchitecture=MSIL">
+      <HintPath>..\packages\ExcelDataReader.3.6.0\lib\net45\ExcelDataReader.dll</HintPath>
+    </Reference>
+    <Reference Include="ExcelDataReader.DataSet, Version=3.6.0.0, Culture=neutral, PublicKeyToken=93517dbe6a4012fa, processorArchitecture=MSIL">
+      <HintPath>..\packages\ExcelDataReader.DataSet.3.6.0\lib\net35\ExcelDataReader.DataSet.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Bcl.AsyncInterfaces, Version=6.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Bcl.AsyncInterfaces.6.0.0\lib\net461\Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.1016.290\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="QRCoder, Version=1.4.3.0, Culture=neutral, PublicKeyToken=c4ed5b9ae8358a28, processorArchitecture=MSIL">
+      <HintPath>..\packages\QRCoder.1.4.3\lib\net40\QRCoder.dll</HintPath>
+    </Reference>
+    <Reference Include="RestSharp, Version=106.12.0.0, Culture=neutral, PublicKeyToken=598062e77f915f75, processorArchitecture=MSIL">
+      <HintPath>..\packages\RestSharp.106.12.0\lib\net452\RestSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <HintPath>C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\System.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.IO.Compression" />
+    <Reference Include="System.Memory, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.5.5\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.6.0.0\lib\net461\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Encodings.Web, Version=6.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Text.Encodings.Web.6.0.0\lib\net461\System.Text.Encodings.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Json, Version=6.0.0.4, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Text.Json.6.0.4\lib\net461\System.Text.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Threading.Tasks.Extensions.4.5.4\lib\net461\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ValueTuple.4.5.0\lib\net47\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AutoCompleteBehavior.cs" />
+    <Compile Include="Controls\ucBuyingQC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ucBuyingQC.Designer.cs">
+      <DependentUpon>ucBuyingQC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ucDirectPacking.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ucDirectPacking.Designer.cs">
+      <DependentUpon>ucDirectPacking.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ucInventoryImport.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ucInventoryImport.Designer.cs">
+      <DependentUpon>ucInventoryImport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ucDirectTempPacking.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ucDirectTempPacking.Designer.cs">
+      <DependentUpon>ucDirectTempPacking.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ucInventoryStockReport.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ucInventoryStockReport.Designer.cs">
+      <DependentUpon>ucInventoryStockReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ucInventoryAdjust.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ucInventoryAdjust.Designer.cs">
+      <DependentUpon>ucInventoryAdjust.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ucReturnBuying.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ucReturnBuying.Designer.cs">
+      <DependentUpon>ucReturnBuying.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ucReturnProcessingINGeneric.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ucReturnProcessingINGeneric.Designer.cs">
+      <DependentUpon>ucReturnProcessingINGeneric.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\BuyingProcessLotPrintLbl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\BuyingProcessLotPrintLbl.Designer.cs">
+      <DependentUpon>BuyingProcessLotPrintLbl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\BuyingProcessV2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\BuyingProcessV2.Designer.cs">
+      <DependentUpon>BuyingProcessV2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\BuyingQCForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\BuyingQCForm.Designer.cs">
+      <DependentUpon>BuyingQCForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\BuyingRegistration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\BuyingRegistration.Designer.cs">
+      <DependentUpon>BuyingRegistration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\DirectPackingDocSumPrint.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\DirectPackingDocSumPrint.Designer.cs">
+      <DependentUpon>DirectPackingDocSumPrint.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\DirectPackingV2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\DirectPackingV2.designer.cs">
+      <DependentUpon>DirectPackingV2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\InventoryAdjustmentPrint.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\InventoryAdjustmentPrint.Designer.cs">
+      <DependentUpon>InventoryAdjustmentPrint.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\PackLotPrint.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\PackLotPrint.Designer.cs">
+      <DependentUpon>PackLotPrint.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\GenericLotPrintThermal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\GenericLotPrintThermal.Designer.cs">
+      <DependentUpon>GenericLotPrintThermal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ReturnBuying.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ReturnBuying.Designer.cs">
+      <DependentUpon>ReturnBuying.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ReturnGenericINProcess.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ReturnGenericINProcess.Designer.cs">
+      <DependentUpon>ReturnGenericINProcess.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ShipmentInfo2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ShipmentInfo2.designer.cs">
+      <DependentUpon>ShipmentInfo2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ShipmentInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ShipmentInfo.designer.cs">
+      <DependentUpon>ShipmentInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\InventoryAdjustment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\InventoryAdjustment.Designer.cs">
+      <DependentUpon>InventoryAdjustment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\WeightListShipPrintSum.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\WeightListShipPrintSum.Designer.cs">
+      <DependentUpon>WeightListShipPrintSum.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ReclassProcessDocPrintSum.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ReclassProcessDocPrintSum.Designer.cs">
+      <DependentUpon>ReclassProcessDocPrintSum.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ReclassDirectProcessDocPrintSum.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ReclassDirectProcessDocPrintSum.Designer.cs">
+      <DependentUpon>ReclassDirectProcessDocPrintSum.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\GenericINProcessDocSumPrint.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\GenericINProcessDocSumPrint.designer.cs">
+      <DependentUpon>GenericINProcessDocSumPrint.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\GenericOUTProcessDocSumPrint.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\GenericOUTProcessDocSumPrint.Designer.cs">
+      <DependentUpon>GenericOUTProcessDocSumPrint.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ScaleCalibration2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ScaleCalibration2.Designer.cs">
+      <DependentUpon>ScaleCalibration2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ScaleCalibrationPrint2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ScaleCalibrationPrint2.Designer.cs">
+      <DependentUpon>ScaleCalibrationPrint2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\WeightListShipPrint.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\WeightListShipPrint.Designer.cs">
+      <DependentUpon>WeightListShipPrint.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\WeightListSumPrint.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\WeightListSumPrint.Designer.cs">
+      <DependentUpon>WeightListSumPrint.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LocalReportExtensions.cs" />
+    <Compile Include="Controls\ucWeightAdjust.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ucWeightAdjust.Designer.cs">
+      <DependentUpon>ucWeightAdjust.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ucReclassProcess.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ucReclassProcess.Designer.cs">
+      <DependentUpon>ucReclassProcess.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ucShipmentInfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ucShipmentInfo.Designer.cs">
+      <DependentUpon>ucShipmentInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ucPurchaseInvoice.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ucPurchaseInvoice.Designer.cs">
+      <DependentUpon>ucPurchaseInvoice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ucDispatchIN.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ucDispatchIN.Designer.cs">
+      <DependentUpon>ucDispatchIN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ucInventoryStock.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ucInventoryStock.Designer.cs">
+      <DependentUpon>ucInventoryStock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ucProcessingINGeneric.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ucProcessingINGeneric.Designer.cs">
+      <DependentUpon>ucProcessingINGeneric.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ucProcessingOUTGeneric.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ucProcessingOUTGeneric.Designer.cs">
+      <DependentUpon>ucProcessingOUTGeneric.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ucBuyingRegistration.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ucBuyingRegistration.Designer.cs">
+      <DependentUpon>ucBuyingRegistration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ucInventory.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ucInventory.Designer.cs">
+      <DependentUpon>ucInventory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ucItemAttribute.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ucItemAttribute.Designer.cs">
+      <DependentUpon>ucItemAttribute.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ucDispatchOUT.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ucDispatchOUT.Designer.cs">
+      <DependentUpon>ucDispatchOUT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ucReclassDirect.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ucReclassDirect.Designer.cs">
+      <DependentUpon>ucReclassDirect.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ucSubItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ucSubItem.Designer.cs">
+      <DependentUpon>ucSubItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ucTobaccoGrade.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ucTobaccoGrade.Designer.cs">
+      <DependentUpon>ucTobaccoGrade.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ucTobaccoPrice.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ucTobaccoPrice.Designer.cs">
+      <DependentUpon>ucTobaccoPrice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ucTobaccoProcess.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ucTobaccoProcess.Designer.cs">
+      <DependentUpon>ucTobaccoProcess.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ucUsers.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ucUsers.Designer.cs">
+      <DependentUpon>ucUsers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ucVendor.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ucVendor.Designer.cs">
+      <DependentUpon>ucVendor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ucWarehouse.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ucWarehouse.Designer.cs">
+      <DependentUpon>ucWarehouse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetAddon.cs">
+      <DependentUpon>DataSetAddon.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetAddon.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetAddon.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\BatchAcumaticaSync.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\BatchAcumaticaSync.Designer.cs">
+      <DependentUpon>BatchAcumaticaSync.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\GenericINProcessDocPrint.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\GenericINProcessDocPrint.Designer.cs">
+      <DependentUpon>GenericINProcessDocPrint.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\GenericOUTProcessDocPrint.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\GenericOUTProcessDocPrint.Designer.cs">
+      <DependentUpon>GenericOUTProcessDocPrint.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\DirectPackingDocPrint.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\DirectPackingDocPrint.Designer.cs">
+      <DependentUpon>DirectPackingDocPrint.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\WeightAdjustDocPrint.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\WeightAdjustDocPrint.Designer.cs">
+      <DependentUpon>WeightAdjustDocPrint.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ReclassProcessDocPrint.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ReclassProcessDocPrint.Designer.cs">
+      <DependentUpon>ReclassProcessDocPrint.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ReclassDirectProcessDocPrint.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ReclassDirectProcessDocPrint.Designer.cs">
+      <DependentUpon>ReclassDirectProcessDocPrint.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\DirectTempPacking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\DirectTempPacking.Designer.cs">
+      <DependentUpon>DirectTempPacking.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\GenericLotPrint.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\GenericLotPrint.Designer.cs">
+      <DependentUpon>GenericLotPrint.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\GenericOUTProcesDonor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\GenericOUTProcesDonor.Designer.cs">
+      <DependentUpon>GenericOUTProcesDonor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\InventoryImportProcess.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\InventoryImportProcess.Designer.cs">
+      <DependentUpon>InventoryImportProcess.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\InventoryRelocate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\InventoryRelocate.Designer.cs">
+      <DependentUpon>InventoryRelocate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\BuyingProcessDocPrint.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\BuyingProcessDocPrint.Designer.cs">
+      <DependentUpon>BuyingProcessDocPrint.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SuratJalanDocPrint.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SuratJalanDocPrint.Designer.cs">
+      <DependentUpon>SuratJalanDocPrint.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\WeightListPrint.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\WeightListPrint.Designer.cs">
+      <DependentUpon>WeightListPrint.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\PurchaseInvoicePrint.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\PurchaseInvoicePrint.Designer.cs">
+      <DependentUpon>PurchaseInvoicePrint.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\DispatchINProcess.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\DispatchINProcess.Designer.cs">
+      <DependentUpon>DispatchINProcess.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\DispatchOUTProcess.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\DispatchOUTProcess.Designer.cs">
+      <DependentUpon>DispatchOUTProcess.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\GenericINProcess.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\GenericINProcess.Designer.cs">
+      <DependentUpon>GenericINProcess.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\GenericOUTProcess.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\GenericOUTProcess.Designer.cs">
+      <DependentUpon>GenericOUTProcess.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\BuyingProcessLotPrint.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\BuyingProcessLotPrint.Designer.cs">
+      <DependentUpon>BuyingProcessLotPrint.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\BuyingRegistrationPrint.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\BuyingRegistrationPrint.Designer.cs">
+      <DependentUpon>BuyingRegistrationPrint.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\PurchaseInvoice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\PurchaseInvoice.Designer.cs">
+      <DependentUpon>PurchaseInvoice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\DirectPacking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\DirectPacking.Designer.cs">
+      <DependentUpon>DirectPacking.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ReclassProcess.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ReclassProcess.Designer.cs">
+      <DependentUpon>ReclassProcess.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ReclassDirectProcess.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ReclassDirectProcess.Designer.cs">
+      <DependentUpon>ReclassDirectProcess.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ScaleCalibrationSetting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ScaleCalibrationSetting.Designer.cs">
+      <DependentUpon>ScaleCalibrationSetting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SetupAcumatica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SetupAcumatica.Designer.cs">
+      <DependentUpon>SetupAcumatica.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SetupFiscal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SetupFiscal.Designer.cs">
+      <DependentUpon>SetupFiscal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SetupNumbering.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SetupNumbering.Designer.cs">
+      <DependentUpon>SetupNumbering.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SetupScale.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SetupScale.Designer.cs">
+      <DependentUpon>SetupScale.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SetupWarehouse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SetupWarehouse.Designer.cs">
+      <DependentUpon>SetupWarehouse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\UserProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\UserProfile.Designer.cs">
+      <DependentUpon>UserProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\UserAddNew.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\UserAddNew.Designer.cs">
+      <DependentUpon>UserAddNew.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\UserRole.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\UserRole.Designer.cs">
+      <DependentUpon>UserRole.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\WeightAdjustment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\WeightAdjustment.Designer.cs">
+      <DependentUpon>WeightAdjustment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Model\AcumaticaCredModel.cs" />
+    <Compile Include="Model\FiscalInfo.cs" />
+    <Compile Include="Model\ScaleCalibrationModel.cs" />
+    <Compile Include="Model\WarehouseModel.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Model\ScaleComModel.cs" />
+    <Compile Include="Model\UserModel.cs" />
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <Compile Include="Controls\ucBuyingProcess.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ucBuyingProcess.Designer.cs">
+      <DependentUpon>ucBuyingProcess.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Utils.cs" />
+    <EmbeddedResource Include="Controls\ucBuyingQC.resx">
+      <DependentUpon>ucBuyingQC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ucDirectPacking.resx">
+      <DependentUpon>ucDirectPacking.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ucInventoryImport.resx">
+      <DependentUpon>ucInventoryImport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ucDirectTempPacking.resx">
+      <DependentUpon>ucDirectTempPacking.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ucInventoryStockReport.resx">
+      <DependentUpon>ucInventoryStockReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ucInventoryAdjust.resx">
+      <DependentUpon>ucInventoryAdjust.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ucReturnBuying.resx">
+      <DependentUpon>ucReturnBuying.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ucReturnProcessingINGeneric.resx">
+      <DependentUpon>ucReturnProcessingINGeneric.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\BuyingProcessLotPrintLbl.resx">
+      <DependentUpon>BuyingProcessLotPrintLbl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\BuyingProcessV2.resx">
+      <DependentUpon>BuyingProcessV2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\BuyingQCForm.resx">
+      <DependentUpon>BuyingQCForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\BuyingRegistration.resx">
+      <DependentUpon>BuyingRegistration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\DirectPackingDocSumPrint.resx">
+      <DependentUpon>DirectPackingDocSumPrint.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\DirectPackingV2.resx">
+      <DependentUpon>DirectPackingV2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\InventoryAdjustmentPrint.resx">
+      <DependentUpon>InventoryAdjustmentPrint.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\PackLotPrint.resx">
+      <DependentUpon>PackLotPrint.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\GenericLotPrintThermal.resx">
+      <DependentUpon>GenericLotPrintThermal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ReclassProcessDocPrintSum.resx">
+      <DependentUpon>ReclassProcessDocPrintSum.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ReclassDirectProcessDocPrintSum.resx">
+      <DependentUpon>ReclassDirectProcessDocPrintSum.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\GenericINProcessDocSumPrint.resx">
+      <DependentUpon>GenericINProcessDocSumPrint.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\GenericOUTProcessDocSumPrint.resx">
+      <DependentUpon>GenericOUTProcessDocSumPrint.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ReturnBuying.resx">
+      <DependentUpon>ReturnBuying.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ReturnGenericINProcess.resx">
+      <DependentUpon>ReturnGenericINProcess.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ScaleCalibration2.resx">
+      <DependentUpon>ScaleCalibration2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ScaleCalibrationPrint2.resx">
+      <DependentUpon>ScaleCalibrationPrint2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ShipmentInfo2.resx">
+      <DependentUpon>ShipmentInfo2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ShipmentInfo.resx">
+      <DependentUpon>ShipmentInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\InventoryAdjustment.resx">
+      <DependentUpon>InventoryAdjustment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\WeightListShipPrint.resx">
+      <DependentUpon>WeightListShipPrint.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ucWeightAdjust.resx">
+      <DependentUpon>ucWeightAdjust.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ucReclassProcess.resx">
+      <DependentUpon>ucReclassProcess.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ucShipmentInfo.resx">
+      <DependentUpon>ucShipmentInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ucPurchaseInvoice.resx">
+      <DependentUpon>ucPurchaseInvoice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ucDispatchIN.resx">
+      <DependentUpon>ucDispatchIN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ucInventoryStock.resx">
+      <DependentUpon>ucInventoryStock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ucProcessingINGeneric.resx">
+      <DependentUpon>ucProcessingINGeneric.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ucProcessingOUTGeneric.resx">
+      <DependentUpon>ucProcessingOUTGeneric.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ucBuyingProcess.resx">
+      <DependentUpon>ucBuyingProcess.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ucBuyingRegistration.resx">
+      <DependentUpon>ucBuyingRegistration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ucInventory.resx">
+      <DependentUpon>ucInventory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ucItemAttribute.resx">
+      <DependentUpon>ucItemAttribute.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ucDispatchOUT.resx">
+      <DependentUpon>ucDispatchOUT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ucReclassDirect.resx">
+      <DependentUpon>ucReclassDirect.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ucSubItem.resx">
+      <DependentUpon>ucSubItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ucTobaccoGrade.resx">
+      <DependentUpon>ucTobaccoGrade.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ucTobaccoPrice.resx">
+      <DependentUpon>ucTobaccoPrice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ucTobaccoProcess.resx">
+      <DependentUpon>ucTobaccoProcess.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ucUsers.resx">
+      <DependentUpon>ucUsers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ucVendor.resx">
+      <DependentUpon>ucVendor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ucWarehouse.resx">
+      <DependentUpon>ucWarehouse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\BatchAcumaticaSync.resx">
+      <DependentUpon>BatchAcumaticaSync.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\GenericINProcessDocPrint.resx">
+      <DependentUpon>GenericINProcessDocPrint.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\GenericOUTProcessDocPrint.resx">
+      <DependentUpon>GenericOUTProcessDocPrint.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\DirectPackingDocPrint.resx">
+      <DependentUpon>DirectPackingDocPrint.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\WeightAdjustDocPrint.resx">
+      <DependentUpon>WeightAdjustDocPrint.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ReclassProcessDocPrint.resx">
+      <DependentUpon>ReclassProcessDocPrint.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ReclassDirectProcessDocPrint.resx">
+      <DependentUpon>ReclassDirectProcessDocPrint.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\DirectTempPacking.resx">
+      <DependentUpon>DirectTempPacking.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\GenericLotPrint.resx">
+      <DependentUpon>GenericLotPrint.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\GenericOUTProcesDonor.resx">
+      <DependentUpon>GenericOUTProcesDonor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\InventoryImportProcess.resx">
+      <DependentUpon>InventoryImportProcess.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\InventoryRelocate.resx">
+      <DependentUpon>InventoryRelocate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\BuyingProcessDocPrint.resx">
+      <DependentUpon>BuyingProcessDocPrint.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SuratJalanDocPrint.resx">
+      <DependentUpon>SuratJalanDocPrint.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\WeightListPrint.resx">
+      <DependentUpon>WeightListPrint.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\PurchaseInvoicePrint.resx">
+      <DependentUpon>PurchaseInvoicePrint.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\DispatchINProcess.resx">
+      <DependentUpon>DispatchINProcess.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\DispatchOUTProcess.resx">
+      <DependentUpon>DispatchOUTProcess.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\GenericINProcess.resx">
+      <DependentUpon>GenericINProcess.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\GenericOUTProcess.resx">
+      <DependentUpon>GenericOUTProcess.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\BuyingProcessLotPrint.resx">
+      <DependentUpon>BuyingProcessLotPrint.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\BuyingRegistrationPrint.resx">
+      <DependentUpon>BuyingRegistrationPrint.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\PurchaseInvoice.resx">
+      <DependentUpon>PurchaseInvoice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\DirectPacking.resx">
+      <DependentUpon>DirectPacking.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ReclassProcess.resx">
+      <DependentUpon>ReclassProcess.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ReclassDirectProcess.resx">
+      <DependentUpon>ReclassDirectProcess.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ScaleCalibrationSetting.resx">
+      <DependentUpon>ScaleCalibrationSetting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SetupAcumatica.resx">
+      <DependentUpon>SetupAcumatica.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SetupFiscal.resx">
+      <DependentUpon>SetupFiscal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SetupNumbering.resx">
+      <DependentUpon>SetupNumbering.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SetupScale.resx">
+      <DependentUpon>SetupScale.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SetupWarehouse.resx">
+      <DependentUpon>SetupWarehouse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\UserProfile.resx">
+      <DependentUpon>UserProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\UserAddNew.resx">
+      <DependentUpon>UserAddNew.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\UserRole.resx">
+      <DependentUpon>UserRole.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\WeightAdjustment.resx">
+      <DependentUpon>WeightAdjustment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\WeightListShipPrintSum.resx">
+      <DependentUpon>WeightListShipPrintSum.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\WeightListSumPrint.resx">
+      <DependentUpon>WeightListSumPrint.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Report\repBuyingProcessLot.rdlc" />
+    <EmbeddedResource Include="Report\repBuyingProcessLotLbl.rdlc" />
+    <EmbeddedResource Include="Report\repDirectPackingDocSum.rdlc" />
+    <EmbeddedResource Include="Report\repDirectReclassDocSum.rdlc" />
+    <EmbeddedResource Include="Report\repGenericLot.rdlc" />
+    <EmbeddedResource Include="Report\repGenericLotThermal.rdlc" />
+    <EmbeddedResource Include="Report\repPackingLot.rdlc" />
+    <EmbeddedResource Include="Report\repProcessingLineINDocSum.rdlc" />
+    <EmbeddedResource Include="Report\repProcessingLineOUTDocSum.rdlc" />
+    <EmbeddedResource Include="Report\repReclassProcessDocSum.rdlc" />
+    <EmbeddedResource Include="Report\repScaleCalibration.rdlc" />
+    <EmbeddedResource Include="Report\repDirectPackingDoc.rdlc" />
+    <EmbeddedResource Include="Report\repSuratJalanDoc_v2.rdlc" />
+    <EmbeddedResource Include="Report\repSuratJalanDoc.rdlc" />
+    <EmbeddedResource Include="Report\repWeightAdjustDoc.rdlc" />
+    <EmbeddedResource Include="Report\repProcessingLineINDoc.rdlc" />
+    <EmbeddedResource Include="Report\repProcessingLineOUTDoc.rdlc" />
+    <EmbeddedResource Include="Report\repReclassProcessDoc.rdlc" />
+    <EmbeddedResource Include="Report\repDirectReclassDoc.rdlc" />
+    <EmbeddedResource Include="Report\repBuyingProcessDoc.rdlc" />
+    <EmbeddedResource Include="Report\repInventoryAdjustmentPrint.rdlc" />
+    <EmbeddedResource Include="Report\repWeightListShip.rdlc" />
+    <EmbeddedResource Include="Report\repWeightList.rdlc" />
+    <EmbeddedResource Include="Report\repPurchaseInvoice.rdlc" />
+    <EmbeddedResource Include="Report\repBuyingRegistration.rdlc" />
+    <EmbeddedResource Include="Report\repWeightListShipSum.rdlc" />
+    <EmbeddedResource Include="Report\repWeightListSum.rdlc" />
+    <None Include="..\.editorconfig">
+      <Link>.editorconfig</Link>
+    </None>
+    <None Include="DataSetAddon.xsc">
+      <DependentUpon>DataSetAddon.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetAddon.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetAddon.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSetAddon.xss">
+      <DependentUpon>DataSetAddon.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-user-menu-male-30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-administrator-male-30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-exchange-30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-exit-30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-database-30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-people-30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-receipt-30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-buy-30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-depot-30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-package-30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-online-store-30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Acumatica.Auth\Acumatica.Auth.csproj">
+      <Project>{5b17772d-1f76-4a4b-a3f7-8c8cffa93e29}</Project>
+      <Name>Acumatica.Auth</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Acumatica.RESTClient\Acumatica.RESTClient.csproj">
+      <Project>{25008d3f-3d78-4bb9-b14b-0a792ae97892}</Project>
+      <Name>Acumatica.RESTClient</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Acumatica.ULT_1.0\Acumatica.ULT_18.200.001.csproj">
+      <Project>{84b187a8-4d74-444a-86a8-d19e766dbdbd}</Project>
+      <Name>Acumatica.ULT_18.200.001</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-settings-30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-cloud-sync-30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-scales-30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-services-30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-list-30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-scorecard-30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-folder-tree-30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-registration-30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-hashtag-30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-plus-30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-delete-30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-save-30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-print-30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="favicon.ico" />
+    <None Include="Resources\icons8-calendar-16.png" />
+    <None Include="Resources\icons8-delete-16.png" />
+    <None Include="Resources\icons8-upload-to-the-cloud-16.png" />
+    <None Include="Resources\icons8-scales-161.png" />
+    <None Include="Resources\icons8-microsoft-excel-16.png" />
+    <None Include="Resources\icons8-microsoft-excel-add-30.png" />
+    <None Include="Resources\icons8-microsoft-excel-edit-30.png" />
+    <None Include="Resources\icons8-microsoft-excel-check-30.png" />
+    <None Include="Resources\icons8-print-16.png" />
+    <None Include="Resources\icons8-box-zero-30.png" />
+    <None Include="Resources\icons8-box-move-16.png" />
+    <None Include="Resources\icons8-box-move-30.png" />
+    <None Include="Resources\icons8-document-delivery-64.png" />
+    <None Include="Resources\icons8-documents-30.png" />
+    <None Include="Resources\icons8-search-161.png" />
+    <None Include="Resources\redline.png" />
+    <None Include="Resources\editMode.png" />
+    <None Include="Resources\viewMode.png" />
+    <None Include="Resources\icons8-donwload-to-the-cloud-30.png" />
+    <None Include="Resources\icons8-donwload-to-the-cloud-16.png" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="ULT logo.ico" />
+    <None Include="Resources\icons8-price-30.png" />
+    <None Include="Resources\icons8-add-property-30.png" />
+    <None Include="Resources\icons8-create-archive-30.png" />
+    <None Include="Resources\icons8-save-archive-30.png" />
+    <None Include="Resources\icons8-compare-30.png" />
+    <None Include="Resources\icons8-upload-to-the-cloud-30.png" />
+    <None Include="Resources\icons8-delete-archive-30.png" />
+    <None Include="Resources\icons8-view-30.png" />
+    <None Include="Resources\icons8-refresh-30.png" />
+    <None Include="Resources\icons8-cargo-ship-30.png" />
+    <None Include="Resources\icons8-invoice-30.png" />
+    <None Include="Resources\icons8-box-gear-30.png" />
+    <None Include="Resources\icons8-box-rec-30.png" />
+    <None Include="Resources\icons8-box-30.png" />
+    <None Include="Resources\icons8-depot-OUT-30.png" />
+    <None Include="Resources\icons8-depot-IN-30.png" />
+    <None Include="Resources\icons8-box-add-30.png" />
+    <None Include="Resources\icons8-box-check-30.png" />
+    <None Include="Resources\icons8-product-30.png" />
+    <None Include="Resources\icons8-scales-add-30.png" />
+    <None Include="Resources\icons8-scales-key-30.png" />
+    <None Include="Resources\icons8-database-16.png" />
+    <None Include="Resources\icons8-user-menu-male-16.png" />
+    <None Include="Resources\icons8-administrator-male-16.png" />
+    <None Include="Resources\icons8-exchange-16.png" />
+    <None Include="Resources\icons8-exit-16.png" />
+    <None Include="Resources\icons8-box-gear-16.png" />
+    <None Include="Resources\icons8-box-rec-16.png" />
+    <None Include="Resources\icons8-box-check-16.png" />
+    <None Include="Resources\icons8-box-add-16.png" />
+    <None Include="Resources\icons8-box-16.png" />
+    <None Include="Resources\icons8-scales-16.png" />
+    <None Include="Resources\icons8-refresh-16.png" />
+    <None Include="Resources\icons8-cloud-sync-16.png" />
+    <None Include="Resources\icons8-settings-16.png" />
+    <None Include="Resources\icons8-hashtag-large-16.png" />
+    <None Include="Resources\icons8-invoice-16.png" />
+    <None Include="Resources\icons8-hashtag-16.png" />
+    <None Include="Resources\icons8-registration-16.png" />
+    <None Include="Resources\icons8-buy-16.png" />
+    <None Include="Resources\icons8-services-16.png" />
+    <None Include="Resources\icons8-product-16.png" />
+    <None Include="Resources\icons8-cargo-ship-16.png" />
+    <None Include="Resources\icons8-depot-OUT-16.png" />
+    <None Include="Resources\icons8-depot-IN-16.png" />
+    <None Include="Resources\icons8-depot-16.png" />
+    <None Include="Resources\icons8-price-16.png" />
+    <None Include="Resources\icons8-scorecard-16.png" />
+    <None Include="Resources\icons8-list-16.png" />
+    <None Include="Resources\icons8-folder-tree-16.png" />
+    <None Include="Resources\icons8-online-store-16.png" />
+    <None Include="Resources\icons8-package-16.png" />
+    <None Include="Resources\icons8-small-business-16.png" />
+    <None Include="Resources\icons8-people-16.png" />
+    <None Include="Resources\icons8-edit-16.png" />
+    <None Include="Resources\icons8-search-16.png" />
+    <None Include="Resources\icons8-plus-16.png" />
+    <None Include="Resources\icons8-warehouse-check-16.png" />
+    <None Include="Resources\icons8-warehouse-out016.png" />
+    <None Include="Resources\icons8-warehouse-in-16.png" />
+    <None Include="Resources\icons8-warehouse-16.png" />
+    <None Include="Resources\icons8-change-user-16.png" />
+    <None Include="Resources\icons8-save-16.png" />
+    <None Include="Resources\icons8-password-reset-16.png" />
+    <None Include="Resources\icons8-people-lock-16.png" />
+    <None Include="Resources\icons8-people-edit-16.png" />
+    <None Include="Resources\icons8-people-key-16.png" />
+    <None Include="Resources\icons8-password-16.png" />
+    <None Include="Resources\icons8-erase-16.png" />
+    <Content Include="SqlServerTypes\readme.htm" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Properties\DataSources\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.8">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.8 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="..\packages\System.Text.Json.6.0.4\build\System.Text.Json.targets" Condition="Exists('..\packages\System.Text.Json.6.0.4\build\System.Text.Json.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\System.Text.Json.6.0.4\build\System.Text.Json.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\System.Text.Json.6.0.4\build\System.Text.Json.targets'))" />
+  </Target>
+</Project>

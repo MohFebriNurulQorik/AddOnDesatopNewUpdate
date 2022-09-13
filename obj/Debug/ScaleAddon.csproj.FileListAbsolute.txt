@@ -1,0 +1,783 @@
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\ScaleAddon.exe.config
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\ScaleAddon.exe
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\ScaleAddon.pdb
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\Acumatica.Auth.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\Acumatica.RESTClient.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\ExcelDataReader.DataSet.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\ExcelDataReader.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\Newtonsoft.Json.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\QRCoder.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\RestSharp.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\System.Buffers.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\System.Memory.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\System.Numerics.Vectors.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\System.Text.Encodings.Web.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\System.Text.Json.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\System.ValueTuple.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\ULTEndpoint_18.200.001.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\JsonSubTypes.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\EnvDTE.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\stdole.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\Acumatica.Auth.pdb
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\Acumatica.Auth.dll.config
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\Acumatica.RESTClient.pdb
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\Acumatica.RESTClient.dll.config
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\ULTEndpoint_18.200.001.pdb
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\ULTEndpoint_18.200.001.dll.config
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\ExcelDataReader.pdb
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\ExcelDataReader.xml
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\ExcelDataReader.DataSet.xml
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\Newtonsoft.Json.xml
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\RestSharp.xml
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\System.Buffers.xml
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\System.Memory.xml
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\System.Numerics.Vectors.xml
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\System.Text.Encodings.Web.xml
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\System.Text.Json.xml
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\System.ValueTuple.xml
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.csproj.AssemblyReference.cache
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.csproj.SuggestedBindingRedirects.cache
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucBuyingQC.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucDirectPacking.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucInventoryImport.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucDirectTempPacking.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucInventoryStockReport.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucInventoryAdjust.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucReturnProcessingINGeneric.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Forms.BuyingProcessLotPrintLbl.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Forms.BuyingProcessV2.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Forms.BuyingQCForm.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Forms.BuyingRegistration.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Forms.DirectPackingDocSumPrint.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Forms.DirectPackingV2.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Forms.InventoryAdjustmentPrint.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Forms.PackLotPrint.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Forms.GenericLotPrintThermal.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Forms.ReclassProcessDocPrintSum.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Forms.ReclassDirectProcessDocPrintSum.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Forms.GenericINProcessDocSumPrint.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Forms.GenericOUTProcessDocSumPrint.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Forms.ReturnGenericINProcess.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Forms.ScaleCalibration2.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Forms.ScaleCalibrationPrint2.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Forms.ShipmentInfo2.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Forms.ShipmentInfo.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Forms.InventoryAdjustment.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Forms.WeightListShipPrint.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucWeightAdjust.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucReclassProcess.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucShipmentInfo.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucPurchaseInvoice.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucDispatchIN.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucInventoryStock.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucProcessingINGeneric.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucProcessingOUTGeneric.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucBuyingProcess.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucBuyingRegistration.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucInventory.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucItemAttribute.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucDispatchOUT.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucReclassDirect.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucSubItem.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucTobaccoGrade.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucTobaccoPrice.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucTobaccoProcess.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucUsers.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucVendor.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucWarehouse.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Forms.BatchAcumaticaSync.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Forms.GenericINProcessDocPrint.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Forms.GenericOUTProcessDocPrint.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Forms.DirectPackingDocPrint.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Forms.WeightAdjustDocPrint.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Forms.ReclassProcessDocPrint.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Forms.ReclassDirectProcessDocPrint.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Forms.DirectTempPacking.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Forms.GenericLotPrint.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Forms.GenericOUTProcesDonor.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Forms.InventoryImportProcess.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Forms.InventoryRelocate.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Forms.BuyingProcessDocPrint.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Forms.SuratJalanDocPrint.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Forms.WeightListPrint.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Forms.PurchaseInvoicePrint.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Forms.DispatchINProcess.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Forms.DispatchOUTProcess.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Forms.GenericINProcess.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Forms.GenericOUTProcess.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Forms.BuyingProcessLotPrint.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Forms.BuyingRegistrationPrint.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Forms.PurchaseInvoice.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Forms.DirectPacking.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Forms.ReclassProcess.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Forms.ReclassDirectProcess.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Forms.ScaleCalibrationSetting.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Forms.SetupAcumatica.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Forms.SetupFiscal.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Forms.SetupNumbering.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Forms.SetupScale.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Forms.SetupWarehouse.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Forms.UserProfile.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Forms.UserAddNew.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Forms.UserRole.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Forms.WeightAdjustment.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Forms.WeightListShipPrintSum.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Forms.WeightListSumPrint.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.LoginForm.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.MainForm.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Properties.Resources.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.csproj.GenerateResource.cache
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.csproj.CoreCompileInputs.cache
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.csproj.CopyComplete
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.exe
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.pdb
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucReturnBuying.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2\ScaleAddon\obj\Debug\ScaleAddon.Forms.ReturnBuying.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\ScaleAddon.exe.config
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\ScaleAddon.exe
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\ScaleAddon.pdb
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\Acumatica.Auth.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\Acumatica.RESTClient.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\ExcelDataReader.DataSet.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\ExcelDataReader.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\Newtonsoft.Json.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\QRCoder.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\RestSharp.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\System.Buffers.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\System.Memory.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\System.Numerics.Vectors.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\System.Text.Encodings.Web.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\System.Text.Json.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\System.ValueTuple.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\ULTEndpoint_18.200.001.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\JsonSubTypes.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\EnvDTE.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\stdole.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\Acumatica.Auth.pdb
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\Acumatica.Auth.dll.config
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\Acumatica.RESTClient.pdb
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\Acumatica.RESTClient.dll.config
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\ULTEndpoint_18.200.001.pdb
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\ULTEndpoint_18.200.001.dll.config
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\ExcelDataReader.pdb
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\ExcelDataReader.xml
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\ExcelDataReader.DataSet.xml
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\Newtonsoft.Json.xml
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\RestSharp.xml
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\System.Buffers.xml
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\System.Memory.xml
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\System.Numerics.Vectors.xml
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\System.Text.Encodings.Web.xml
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\System.Text.Json.xml
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\System.ValueTuple.xml
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.csproj.AssemblyReference.cache
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.csproj.SuggestedBindingRedirects.cache
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucBuyingQC.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucDirectPacking.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucInventoryImport.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucDirectTempPacking.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucInventoryStockReport.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucInventoryAdjust.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucReturnBuying.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucReturnProcessingINGeneric.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.BuyingProcessLotPrintLbl.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.BuyingProcessV2.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.BuyingQCForm.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.BuyingRegistration.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.DirectPackingDocSumPrint.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.DirectPackingV2.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.InventoryAdjustmentPrint.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.PackLotPrint.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.GenericLotPrintThermal.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.ReclassProcessDocPrintSum.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.ReclassDirectProcessDocPrintSum.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.GenericINProcessDocSumPrint.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.GenericOUTProcessDocSumPrint.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.ReturnBuying.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.ReturnGenericINProcess.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.ScaleCalibration2.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.ScaleCalibrationPrint2.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.ShipmentInfo2.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.ShipmentInfo.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.InventoryAdjustment.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.WeightListShipPrint.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucWeightAdjust.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucReclassProcess.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucShipmentInfo.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucPurchaseInvoice.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucDispatchIN.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucInventoryStock.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucProcessingINGeneric.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucProcessingOUTGeneric.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucBuyingProcess.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucBuyingRegistration.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucInventory.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucItemAttribute.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucDispatchOUT.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucReclassDirect.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucSubItem.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucTobaccoGrade.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucTobaccoPrice.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucTobaccoProcess.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucUsers.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucVendor.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucWarehouse.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.BatchAcumaticaSync.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.GenericINProcessDocPrint.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.GenericOUTProcessDocPrint.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.DirectPackingDocPrint.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.WeightAdjustDocPrint.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.ReclassProcessDocPrint.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.ReclassDirectProcessDocPrint.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.DirectTempPacking.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.GenericLotPrint.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.GenericOUTProcesDonor.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.InventoryImportProcess.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.InventoryRelocate.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.BuyingProcessDocPrint.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.SuratJalanDocPrint.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.WeightListPrint.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.PurchaseInvoicePrint.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.DispatchINProcess.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.DispatchOUTProcess.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.GenericINProcess.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.GenericOUTProcess.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.BuyingProcessLotPrint.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.BuyingRegistrationPrint.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.PurchaseInvoice.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.DirectPacking.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.ReclassProcess.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.ReclassDirectProcess.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.ScaleCalibrationSetting.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.SetupAcumatica.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.SetupFiscal.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.SetupNumbering.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.SetupScale.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.SetupWarehouse.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.UserProfile.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.UserAddNew.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.UserRole.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.WeightAdjustment.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.WeightListShipPrintSum.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.WeightListSumPrint.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.LoginForm.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.MainForm.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Properties.Resources.resources
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.csproj.GenerateResource.cache
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.csproj.CoreCompileInputs.cache
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.csproj.CopyComplete
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.exe
+D:\Kantor\ULTID\Sunartha\maintenece\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.pdb
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\ScaleAddon.exe.config
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\ScaleAddon.exe
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\ScaleAddon.pdb
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\Acumatica.Auth.dll
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\Acumatica.RESTClient.dll
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\ExcelDataReader.DataSet.dll
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\ExcelDataReader.dll
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\Newtonsoft.Json.dll
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\QRCoder.dll
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\RestSharp.dll
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\System.Buffers.dll
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\System.Memory.dll
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\System.Numerics.Vectors.dll
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\System.Text.Encodings.Web.dll
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\System.Text.Json.dll
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\System.ValueTuple.dll
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\ULTEndpoint_18.200.001.dll
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\JsonSubTypes.dll
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\EnvDTE.dll
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\stdole.dll
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\Microsoft.MSXML.dll
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\Acumatica.Auth.pdb
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\Acumatica.Auth.dll.config
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\Acumatica.RESTClient.pdb
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\Acumatica.RESTClient.dll.config
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\ULTEndpoint_18.200.001.pdb
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\ULTEndpoint_18.200.001.dll.config
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\ExcelDataReader.pdb
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\ExcelDataReader.xml
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\ExcelDataReader.DataSet.xml
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\Newtonsoft.Json.xml
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\RestSharp.xml
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\System.Buffers.xml
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\System.Memory.xml
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\System.Numerics.Vectors.xml
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\System.Text.Encodings.Web.xml
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\System.Text.Json.xml
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\System.ValueTuple.xml
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.csproj.AssemblyReference.cache
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucBuyingQC.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucDirectPacking.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucInventoryImport.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucDirectTempPacking.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucInventoryStockReport.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucInventoryAdjust.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucReturnBuying.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucReturnProcessingINGeneric.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.BuyingProcessLotPrintLbl.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.BuyingProcessV2.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.BuyingQCForm.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.BuyingRegistration.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.DirectPackingDocSumPrint.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.DirectPackingV2.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.InventoryAdjustmentPrint.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.PackLotPrint.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.GenericLotPrintThermal.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.ReclassProcessDocPrintSum.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.ReclassDirectProcessDocPrintSum.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.GenericINProcessDocSumPrint.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.GenericOUTProcessDocSumPrint.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.ReturnBuying.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.ReturnGenericINProcess.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.ScaleCalibration2.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.ScaleCalibrationPrint2.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.ShipmentInfo2.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.ShipmentInfo.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.InventoryAdjustment.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.WeightListShipPrint.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucWeightAdjust.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucReclassProcess.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucShipmentInfo.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucPurchaseInvoice.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucDispatchIN.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucInventoryStock.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucProcessingINGeneric.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucProcessingOUTGeneric.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucBuyingProcess.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucBuyingRegistration.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucInventory.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucItemAttribute.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucDispatchOUT.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucReclassDirect.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucSubItem.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucTobaccoGrade.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucTobaccoPrice.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucTobaccoProcess.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucUsers.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucVendor.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucWarehouse.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.BatchAcumaticaSync.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.GenericINProcessDocPrint.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.GenericOUTProcessDocPrint.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.DirectPackingDocPrint.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.WeightAdjustDocPrint.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.ReclassProcessDocPrint.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.ReclassDirectProcessDocPrint.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.DirectTempPacking.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.GenericLotPrint.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.GenericOUTProcesDonor.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.InventoryImportProcess.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.InventoryRelocate.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.BuyingProcessDocPrint.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.SuratJalanDocPrint.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.WeightListPrint.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.PurchaseInvoicePrint.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.DispatchINProcess.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.DispatchOUTProcess.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.GenericINProcess.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.GenericOUTProcess.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.BuyingProcessLotPrint.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.BuyingRegistrationPrint.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.PurchaseInvoice.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.DirectPacking.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.ReclassProcess.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.ReclassDirectProcess.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.ScaleCalibrationSetting.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.SetupAcumatica.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.SetupFiscal.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.SetupNumbering.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.SetupScale.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.SetupWarehouse.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.UserProfile.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.UserAddNew.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.UserRole.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.WeightAdjustment.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.WeightListShipPrintSum.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Forms.WeightListSumPrint.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.LoginForm.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.MainForm.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.Properties.Resources.resources
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.csproj.GenerateResource.cache
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\RdlCompile.cache
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\RdlCompile.compiled
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.csproj.CoreCompileInputs.cache
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.csproj.CopyComplete
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.exe
+D:\Acumatica\Addon-R2 - Copy\Addon-R2 - Copy\ScaleAddon\obj\Debug\ScaleAddon.pdb
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\ScaleAddon.exe.config
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\ScaleAddon.exe
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\ScaleAddon.pdb
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\Acumatica.Auth.dll
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\Acumatica.RESTClient.dll
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\ExcelDataReader.DataSet.dll
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\ExcelDataReader.dll
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\Newtonsoft.Json.dll
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\QRCoder.dll
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\RestSharp.dll
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\System.Buffers.dll
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\System.Memory.dll
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\System.Numerics.Vectors.dll
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\System.Text.Encodings.Web.dll
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\System.Text.Json.dll
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\System.ValueTuple.dll
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\ULTEndpoint_18.200.001.dll
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\JsonSubTypes.dll
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\EnvDTE.dll
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\stdole.dll
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\Microsoft.MSXML.dll
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\Acumatica.Auth.pdb
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\Acumatica.Auth.dll.config
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\Acumatica.RESTClient.pdb
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\Acumatica.RESTClient.dll.config
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\ULTEndpoint_18.200.001.pdb
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\ULTEndpoint_18.200.001.dll.config
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\ExcelDataReader.pdb
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\ExcelDataReader.xml
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\ExcelDataReader.DataSet.xml
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\Newtonsoft.Json.xml
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\RestSharp.xml
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\System.Buffers.xml
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\System.Memory.xml
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\System.Numerics.Vectors.xml
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\System.Text.Encodings.Web.xml
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\System.Text.Json.xml
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\System.ValueTuple.xml
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.csproj.AssemblyReference.cache
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.exe.config
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucBuyingQC.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucDirectPacking.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucInventoryImport.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucDirectTempPacking.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucInventoryStockReport.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucInventoryAdjust.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucReturnBuying.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucReturnProcessingINGeneric.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Forms.BuyingProcessLotPrintLbl.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Forms.BuyingProcessV2.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Forms.BuyingQCForm.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Forms.BuyingRegistration.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Forms.DirectPackingDocSumPrint.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Forms.DirectPackingV2.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Forms.InventoryAdjustmentPrint.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Forms.PackLotPrint.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Forms.GenericLotPrintThermal.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Forms.ReclassProcessDocPrintSum.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Forms.ReclassDirectProcessDocPrintSum.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Forms.GenericINProcessDocSumPrint.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Forms.GenericOUTProcessDocSumPrint.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Forms.ReturnBuying.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Forms.ReturnGenericINProcess.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Forms.ScaleCalibration2.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Forms.ScaleCalibrationPrint2.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Forms.ShipmentInfo2.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Forms.ShipmentInfo.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Forms.InventoryAdjustment.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Forms.WeightListShipPrint.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucWeightAdjust.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucReclassProcess.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucShipmentInfo.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucPurchaseInvoice.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucDispatchIN.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucInventoryStock.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucProcessingINGeneric.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucProcessingOUTGeneric.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucBuyingProcess.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucBuyingRegistration.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucInventory.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucItemAttribute.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucDispatchOUT.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucReclassDirect.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucSubItem.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucTobaccoGrade.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucTobaccoPrice.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucTobaccoProcess.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucUsers.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucVendor.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Controls.ucWarehouse.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Forms.BatchAcumaticaSync.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Forms.GenericINProcessDocPrint.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Forms.GenericOUTProcessDocPrint.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Forms.DirectPackingDocPrint.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Forms.WeightAdjustDocPrint.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Forms.ReclassProcessDocPrint.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Forms.ReclassDirectProcessDocPrint.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Forms.DirectTempPacking.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Forms.GenericLotPrint.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Forms.GenericOUTProcesDonor.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Forms.InventoryImportProcess.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Forms.InventoryRelocate.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Forms.BuyingProcessDocPrint.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Forms.SuratJalanDocPrint.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Forms.WeightListPrint.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Forms.PurchaseInvoicePrint.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Forms.DispatchINProcess.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Forms.DispatchOUTProcess.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Forms.GenericINProcess.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Forms.GenericOUTProcess.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Forms.BuyingProcessLotPrint.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Forms.BuyingRegistrationPrint.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Forms.PurchaseInvoice.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Forms.DirectPacking.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Forms.ReclassProcess.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Forms.ReclassDirectProcess.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Forms.ScaleCalibrationSetting.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Forms.SetupAcumatica.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Forms.SetupFiscal.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Forms.SetupNumbering.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Forms.SetupScale.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Forms.SetupWarehouse.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Forms.UserProfile.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Forms.UserAddNew.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Forms.UserRole.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Forms.WeightAdjustment.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Forms.WeightListShipPrintSum.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Forms.WeightListSumPrint.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.LoginForm.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.MainForm.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.Properties.Resources.resources
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.csproj.GenerateResource.cache
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\RdlCompile.cache
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\RdlCompile.compiled
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.csproj.CoreCompileInputs.cache
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.csproj.CopyComplete
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.exe
+D:\Acumatica\Addon-Desktop_21R2-V2_Qori 220912\ScaleAddon\obj\Debug\ScaleAddon.pdb
